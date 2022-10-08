@@ -1,0 +1,4 @@
+int32 a
+int32 b
+---  ##---를 기준으로 위쪽은 요청request 아래는 응답response
+int32 result
